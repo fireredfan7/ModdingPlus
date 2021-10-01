@@ -18,7 +18,7 @@ import flixel.FlxObject;
 import Sys;
 import sys.FileSystem;
 #end
-#if cpp
+#if windows
 import Discord.DiscordClient;
 #end
 import DifficultyIcons;
